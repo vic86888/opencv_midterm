@@ -15,5 +15,5 @@
 - `output_OK.mp4`
 
 ## 🚀 優化成果
-改進後的偵測效果示意圖：
+偵測方法改進示意圖：
 - `improve_method.png`
